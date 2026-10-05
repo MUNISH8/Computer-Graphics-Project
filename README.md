@@ -37,16 +37,16 @@ Everything is drawn with raw OpenGL primitives (`GL_QUADS`, `GL_POLYGON`, `GL_LI
 
 <table>
   <tr>
-    <td align="center"><img src="[docs/screenshots/01-entrance.png](https://github.com/MUNISH8/Computer-Graphics-Project/blob/main/01-entrance.png)" width="400"><br><sub><b>1 · Entrance</b></sub></td>
-    <td align="center"><img src="docs/screenshots/02-corridor.png" width="400"><br><sub><b>2 · Corridor</b></sub></td>
+    <td align="center"><img src="01-entrance.png" width="400"><br><sub><b>1 · Entrance</b></sub></td>
+    <td align="center"><img src="02-corridor.png" width="400"><br><sub><b>2 · Corridor</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/screenshots/04-classroom-entry.png" width="400"><br><sub><b>3 · Classroom entry</b></sub></td>
-    <td align="center"><img src="docs/screenshots/05-teacher.png" width="400"><br><sub><b>4 · Teacher & projector</b></sub></td>
+    <td align="center"><img src="04-classroom-entry.png" width="400"><br><sub><b>3 · Classroom entry</b></sub></td>
+    <td align="center"><img src="05-teacher.png" width="400"><br><sub><b>4 · Teacher & projector</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/screenshots/06-daydream.png" width="400"><br><sub><b>5 · Daydream</b></sub></td>
-    <td align="center"><img src="docs/screenshots/08-football-match.png" width="400"><br><sub><b>6 · Football penalty match</b></sub></td>
+    <td align="center"><img src="06-daydream.png" width="400"><br><sub><b>5 · Daydream</b></sub></td>
+    <td align="center"><img src="08-football-match.png" width="400"><br><sub><b>6 · Football penalty match</b></sub></td>
   </tr>
 </table>
 
